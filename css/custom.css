@@ -6,8 +6,8 @@ body {
 }
 
 .opacity-05 {
-    opacity: 0.5;
-  }
+  opacity: 0.5;
+}
 #showcase {
   background: url("../images/main.jpg") bottom center / cover no-repeat;
   min-height: 750px;
